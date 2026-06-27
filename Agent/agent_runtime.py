@@ -152,4 +152,4 @@ class AgentLoop:
             self.history.append({"role": "user", "content": user_input})
             self.memory.append_history("user", user_input)
             reply = self.runner.step(self.history)
-            print(f"AI\u200d♂️: {reply}\n")
+            print(f"Agent: {reply}\n")
