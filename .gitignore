@@ -7,7 +7,7 @@ __pycache__/
 
 # 运行期产生的私人数据（含用户档案 / 会话历史 / token 用量）
 memory/
-Template/Soul.md
-Template/User.md
+Templates\Soul.md
+Templates\User.md
 .team/
 build-agent-example/code/.team/
